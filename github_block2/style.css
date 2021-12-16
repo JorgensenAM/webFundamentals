@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 970px;
+
+}
+#heading{
+    text-align:center;
+    color: purple;
+}
+img{
+    height: 200px;
+
+}
+.row-top{
+    background-color: salmon;
+    padding: 15px;
+    display:flex;
+    justify-content: space-between;
+}
