@@ -12,7 +12,7 @@
 }
     
 
-}
+
 .colorblock{
     background-color:rgb(32, 165, 209);
     width: 800px;
@@ -23,6 +23,7 @@
 .container{
     width: 400px;
     height:auto;
+}
     
 .propic{
     height: 100px;
