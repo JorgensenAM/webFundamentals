@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img.octocat {
+    height: 200px;
+}
+.heading{
+    height: 75px;
+    color: indianred;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 75px; 
+}
+#container{
+    display: flex;
+    height: 700;
+    background-color: burlywood;
+}
+.top-row{
+    height: 250px;
+    background-color: cornflowerblue;
+}
