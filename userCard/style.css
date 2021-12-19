@@ -8,17 +8,22 @@
     width: 800px;
     height: 385px;
     display: flex;
+    border-style: solid;
+}
+    
+
 }
 .colorblock{
     background-color:rgb(32, 165, 209);
     width: 800px;
     height: 75px;
     display: flex;
+   
 }
 .container{
     width: 400px;
     height:auto;
-}
+    
 .propic{
     height: 100px;
     border-radius: 10;
