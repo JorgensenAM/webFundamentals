@@ -10,6 +10,8 @@
     font-family: sans-serif;
     font-size: 65px; 
     text-align: center;
+    display: flex;
+    justify-content: center;
 
 }
 #container{
@@ -20,10 +22,11 @@
 
 }
 .row-top{
+    display: 
     height: 200px;
     width: 800px;
     background-color:rgb(243, 169, 142);
-   
+
 }
 .row-center{
     height: 200px;
@@ -33,4 +36,5 @@
 .row-bottom{
 height: 200px;
 width: 800px;
+
 background-color: darkseagreen;
