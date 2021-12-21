@@ -12,21 +12,24 @@
     text-align: center;
     display: flex;
     justify-content: center;
-
 }
-#container{
+
+.flex-container{
+    align-items: center;
     width: 800px;
     padding: 20px;
     background-color: burlywood;
-    
-
 }
+
 .row-top{
-    display: 
+   
     height: 200px;
     width: 800px;
-    background-color:rgb(243, 169, 142);
+    background-color: rgb(243, 169, 142);
+}
 
+img.whereswaldoctocat{
+    margin-left: 20px;
 }
 .row-center{
     height: 200px;
@@ -38,3 +41,4 @@ height: 200px;
 width: 800px;
 
 background-color: darkseagreen;
+}
