@@ -11,6 +11,9 @@
     width: 700px;
     height: 325px;
     display: flex;
+    position:sticky;
+    left: 300px;
+
 }
     
 
